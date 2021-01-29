@@ -1,7 +1,7 @@
-### ·Hi there 👋
-#####    ·大家好，很高兴在这里认识大家
-#####    ·我叫廖圣聪，来自湖北，兴趣爱好的看听歌看小说
-#####    ·念念不忘，必有回响
+### •Hi there 👋
+#####    •大家好，很高兴在这里认识大家
+#####    •我叫廖圣聪，来自湖北，兴趣爱好的看小说听歌
+#####    •念念不忘，必有回响
 <!--
 **LSCLS/LSCLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
